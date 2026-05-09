@@ -17,13 +17,14 @@ These materials are designed for personal review, exam preparation, and long-ter
 - Service Providers
 - Cyber Risk and Technology Risk
 
-## Mindmap Preview
+## Mindmap Overview
 
-![Operational Risk Mindmap](Operational_Risk_Mindmap.png)
+![Operational Risk Mindmap Overview](operational-risk-overview.png)
 
-## PDF Version
+## Full Mindmap
 
-[View Operational Risk Mindmap PDF](Operational_Risk_Mindmap.pdf)
+- [View full PNG mindmap](operational-risk-full.png)
+- [View PDF version](operational-risk-mindmap.pdf)
 
 ## Notes
 
