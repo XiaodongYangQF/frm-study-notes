@@ -19,11 +19,11 @@ These materials are designed for personal review, exam preparation, and long-ter
 
 ## Mindmap Preview
 
-![Operational Risk Mindmap](operational-risk-mindmap.png)
+![Operational Risk Mindmap](operational_risk_mindmap.png)
 
 ## PDF Version
 
-[View Operational Risk Mindmap PDF](operational-risk-mindmap.pdf)
+[View Operational Risk Mindmap PDF](operational_risk_mindmap.pdf)
 
 ## Notes
 
