@@ -1,6 +1,8 @@
 # Operational Risk
 
-This section contains my personal notes and mindmaps for FRM Level II Operational Risk.
+This folder contains my FRM Level II Operational Risk study materials, including visual mindmaps and structured revision notes.
+
+These materials are designed for personal review, exam preparation, and long-term knowledge organization.
 
 ## Contents
 
@@ -15,10 +17,14 @@ This section contains my personal notes and mindmaps for FRM Level II Operationa
 - Service Providers
 - Cyber Risk and Technology Risk
 
-## Mindmap
+## Mindmap Preview
 
 ![Operational Risk Mindmap](operational-risk-mindmap.png)
 
-## Full PDF Version
+## PDF Version
 
-[Download Operational Risk Mindmap PDF](operational-risk-mindmap.pdf)
+[View Operational Risk Mindmap PDF](operational-risk-mindmap.pdf)
+
+## Notes
+
+Structured written notes will be added gradually as this repository develops.
